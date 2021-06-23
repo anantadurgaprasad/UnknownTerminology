@@ -21,8 +21,16 @@
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">wiki</a></li>
 <li>These are used by companies while commiting their code and others for authenticate.</li>
+<li></li>
 </ul>
 </li>
+</ul>
+</li>
+<li>
+<h3 id="slsa-">SLSA :</h3>
+<ul>
+<li>It is an end-to-end framework by google to tackle attacks on software supply chain.</li>
+<li><a href="https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html">article</a></li>
 </ul>
 </li>
 </ul>
