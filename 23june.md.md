@@ -16,6 +16,13 @@
 <li><a href="https://comodosslstore.com/resources/what-is-a-pki-certificate/">article</a></li>
 </ul>
 </li>
+<li>
+<h3 id="gpg-key-">GPG key :</h3>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/GNU_Privacy_Guard">wiki</a></li>
+<li>These are used by companies while commiting their code and others for authenticate.</li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
