@@ -1,0 +1,1 @@
+## List of Terminology I learn today - 21st July 2021
